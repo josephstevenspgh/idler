@@ -1,0 +1,3 @@
+Z:\media\storage\Programs\programming\love\test game\Untitled 7#tiles.png
+Z:\media\storage\Programs\programming\love\test game\Untitled 7.tlc
+Z:\media\storage\Programs\programming\love\test game\Untitled 7#map001.txm

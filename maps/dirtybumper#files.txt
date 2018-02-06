@@ -1,0 +1,3 @@
+Z:\media\storage\Programs\programming\love\test game\maps\dirtybumper#tiles.png
+Z:\media\storage\Programs\programming\love\test game\maps\dirtybumper.tlc
+Z:\media\storage\Programs\programming\love\test game\maps\dirtybumper#map001.txm

@@ -1,0 +1,3 @@
+Z:\media\storage\Programs\programming\love\test game\sprites\Untitled 16#tiles.png
+Z:\media\storage\Programs\programming\love\test game\sprites\Untitled 16.tlc
+Z:\media\storage\Programs\programming\love\test game\sprites\Untitled 16#map001.txm

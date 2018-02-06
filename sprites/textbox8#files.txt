@@ -1,0 +1,3 @@
+Z:\media\storage\Programs\programming\love\test game\sprites\textbox8#tiles.png
+Z:\media\storage\Programs\programming\love\test game\sprites\textbox8.tlc
+Z:\media\storage\Programs\programming\love\test game\sprites\textbox8#map001.map

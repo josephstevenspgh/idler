@@ -1,0 +1,92 @@
+dirtybumper dev log
+
+dec 31 2016
+	*plans
+		finish the damned town
+	*done
+		! shows up when you can inspect/take action
+		showicon() has an argument for type, making shit a lot easier
+		inn made
+		shop made
+		plot made
+		all the things in town: made
+			- town still needs dolled up though
+		
+
+
+dec 30 2016
+	* plans
+		all town dialog
+		place npcs and walk paths everywhere
+		general polish on what already exists
+		new enemies
+	* done
+		textbox remade into an 8x8 textbox - better size estimation
+		question boxes added - any amount of arguments, will draw underneath textbox right-aligned
+		transparancy on textboxes
+		--
+		refuckulated textboxes
+		started shop
+		wrote for some npcs
+
+
+
+-- posted about this shit to tigsource already
+
+----
+dec 29 2016
+	* plans
+		complete town + pushblock scenario
+		npc art + text
+		new enemies + ai
+
+	* done
+		lots of town shit
+		new ai types for npcs - point to point movement
+		npc art, young man, young woman animated
+		other shit i forgot to write down
+
+----
+
+dec 28 2016
+	* plans
+		gamepad/keyboard config
+		save/load game
+		new bat enemy art + ai
+		make slimes on death split
+		create poison status effect
+		house exterior + interior art
+	* engine
+		tweaked AIs and sprite states - added a death state before sprite removal, for animation and post death effects
+		slimes split into smaller slimes on death now
+		titlescreen implemented
+		newgame with either class
+		shuffled around many variables into proper init_state functions, rather than having them all in the initial init() function, created loader.luato clear up main.lua
+		game saving
+		game loading
+		friendlier collision broke pushing blocks - fixed it
+		fixed bombwall collision
+		poison status effect - globalized status timers
+		portraits show correctly depending on class
+	* content
+		town art
+		rough thief portrait art
+		new town roughed out
+
+----
+
+dec 27 2016
+	* engine
+		bombs
+		bomb walls
+		gamepad support, hardwired buttons - buttons will be able to be changed easy later
+		options menu set up, but still needs gamepad/keyboard config changing - aside from saving, and key config, all pause menus are done
+		friendlier collision: if you walk against an angled wall, you follow the angle now, goes the same for all sprites that move
+		centered scaling for sprites
+	* content
+		sprite sketch for bat enemy
+		several tunnel systems and caves made
+		some new art for cave interior
+		static old man npc
+		basic quest: push the block away from a npc, he gives you the climbing hooks.
+		special npcs can have different dialog after clearing their triggers easily

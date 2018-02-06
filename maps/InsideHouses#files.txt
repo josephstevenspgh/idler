@@ -1,0 +1,8 @@
+Z:\media\storage\Programs\programming\love\test game\maps\InsideHouses#tiles.png
+Z:\media\storage\Programs\programming\love\test game\maps\InsideHouses.tlc
+Z:\media\storage\Programs\programming\love\test game\maps\InsideHouses#map001.txm
+Z:\media\storage\Programs\programming\love\test game\maps\InsideHouses#map002.txm
+Z:\media\storage\Programs\programming\love\test game\maps\InsideHouses#map003.txm
+Z:\media\storage\Programs\programming\love\test game\maps\InsideHouses#map004.txm
+Z:\media\storage\Programs\programming\love\test game\maps\InsideHouses#map005.txm
+Z:\media\storage\Programs\programming\love\test game\maps\InsideHouses#map006.txm

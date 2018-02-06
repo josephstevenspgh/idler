@@ -1,0 +1,3 @@
+Z:\media\storage\Programs\programming\love\test game\maps\area 2#tiles.png
+Z:\media\storage\Programs\programming\love\test game\maps\area 2.tlc
+Z:\media\storage\Programs\programming\love\test game\maps\area 2#map001.txm

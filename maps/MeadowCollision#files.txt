@@ -1,0 +1,5 @@
+Z:\media\storage\Programs\programming\love\test game\maps\MeadowCollision#tiles.png
+Z:\media\storage\Programs\programming\love\test game\maps\MeadowCollision.tlc
+Z:\media\storage\Programs\programming\love\test game\maps\MeadowCollision#map001.txm
+Z:\media\storage\Programs\programming\love\test game\maps\MeadowCollision#map002.txm
+Z:\media\storage\Programs\programming\love\test game\maps\MeadowCollision#map003.txm
